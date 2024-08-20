@@ -1,6 +1,6 @@
 # Python Basics: Variables and Data Types
 
-Tasnia sharmin
+tasnia sharmin
 ID: C193249
 Email: c193249@ugrad.iiuc.ac.bd
 """
